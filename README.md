@@ -7,7 +7,6 @@ This is a basic hospital management system developed as part of my 1st-semester 
 - ➕ Add new patient records
 - 👀 View existing records
 - 📝 Edit patient details
-- 📁 Store data using file handling in C
 
 ### 📌 Technologies Used
 - C Programming
